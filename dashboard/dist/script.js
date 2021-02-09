@@ -1,9 +1,4 @@
-// Update: 11/10/2020
-// I created this pen since a long time and I didn't update anything, so I don't recommend you to work with this code, you may consider it as an inspiration dashboard UI only.
 
-// Other important pens.
-// Map: https://codepen.io/themustafaomar/pen/ZEGJeZq
-// Navbar: https://codepen.io/themustafaomar/pen/VKbQyZ
 
 $(function () {
 
